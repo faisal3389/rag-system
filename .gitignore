@@ -1,0 +1,5 @@
+.venv
+chroma_db
+venv
+data/dev_notes
+rag_chat.log
